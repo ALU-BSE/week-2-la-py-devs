@@ -1,0 +1,454 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Lost Kingdom",
+      "author": "Amara Blake",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Echoes of Eternity",
+      "author": "Liam Cross",
+      "published_year": 1997
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "Whispers in the Fog",
+      "author": "Nora Fields",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "Rise of the Titans",
+      "author": "Gavin Stone",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "title": "Fires of Winter",
+      "author": "Elena Frost",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "title": "Moonlight Sonata",
+      "author": "Jasper Hale",
+      "published_year": 1992
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "title": "The Final Prophecy",
+      "author": "Celeste Night",
+      "published_year": 2022
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "title": "Crown of Shadows",
+      "author": "Damon Wells",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "title": "The Ivory Gate",
+      "author": "Isla Dawn",
+      "published_year": 1988
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "title": "Storm and Silence",
+      "author": "Reed Bennett",
+      "published_year": 2017
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "title": "Beneath the Stars",
+      "author": "Ariana Moss",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "title": "Dreamwalkers",
+      "author": "Leo Summers",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+      "title": "The Obsidian Code",
+      "author": "Talia Wren",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+      "title": "Wings of the Phoenix",
+      "author": "Finn Orion",
+      "published_year": 1998
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+      "title": "The Cursed Compass",
+      "author": "Vera Quinn",
+      "published_year": 2013
+    }
+  },
+
+  {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+      "title": "The Frozen Realm",
+      "author": "Harper Vale",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+      "title": "Labyrinth of Light",
+      "author": "Elias Crane",
+      "published_year": 1999
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+      "title": "The Shattered Crown",
+      "author": "Rhea Morgan",
+      "published_year": 2002
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+      "title": "Chronicles of the Flame",
+      "author": "Theo Ashford",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+      "title": "The Hollow City",
+      "author": "Mira Hawke",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "title": "Tales from the Deep",
+      "author": "Silas Reed",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+      "title": "Echoes of the Sea",
+      "author": "Naomi Skye",
+      "published_year": 2000
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+      "title": "The Verdant Throne",
+      "author": "Cassian Lowe",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+      "title": "Dawn of the Eclipse",
+      "author": "Ivy Rowan",
+      "published_year": 1996
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+      "title": "Ashes and Ember",
+      "author": "Orion Black",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+      "title": "The Clockwork Key",
+      "author": "Hazel Wynn",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+      "title": "Forest of Whispers",
+      "author": "Rowan Gale",
+      "published_year": 1995
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+      "title": "The Crimson Pact",
+      "author": "Nova Sterling",
+      "published_year": 2020
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+      "title": "Veil of Midnight",
+      "author": "Felix Rivers",
+      "published_year": 1990
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+      "title": "Legacy of Thorns",
+      "author": "Aria Blake",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+      "title": "The Phantom's Code",
+      "author": "Dante Vale",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+      "title": "Winds of Dusk",
+      "author": "Elara Moon",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+      "title": "Shadows of the North",
+      "author": "Colin Frost",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+      "title": "The Silent Choir",
+      "author": "Lara Quinn",
+      "published_year": 1989
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+      "title": "The Golden Mirage",
+      "author": "Juno Wilde",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+      "title": "Edge of the World",
+      "author": "Kai Sutherland",
+      "published_year": 1993
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+      "title": "The Serpent's Song",
+      "author": "Zara Finch",
+      "published_year": 1998
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+      "title": "Emberfall",
+      "author": "Jace Hollow",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+      "title": "The Paper Sky",
+      "author": "Iris Storm",
+      "published_year": 2023
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+      "title": "Throne of Bones",
+      "author": "Damien Wren",
+      "published_year": 1994
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+      "title": "The Lantern Path",
+      "author": "Selene Bright",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+      "title": "The Sapphire Curse",
+      "author": "Aidan Voss",
+      "published_year": 2017
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+      "title": "Dreams of Iron",
+      "author": "Nova Thorne",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+      "title": "The Sky Below",
+      "author": "Beck Rowan",
+      "published_year": 1991
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+      "title": "The Dragon’s Pledge",
+      "author": "Lyra Storm",
+      "published_year": 2021
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+      "title": "The Broken Moon",
+      "author": "Micah Ray",
+      "published_year": 2000
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+      "title": "Secrets of the Rift",
+      "author": "Wren Hollow",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+      "title": "The Night Voyage",
+      "author": "Seraphina Vale",
+      "published_year": 1985
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+      "title": "Kingdom of Clay",
+      "author": "Gideon Frost",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+      "title": "The Last Ember",
+      "author": "Freya Snow",
+      "published_year": 2024
+    }
+  }
+]
+
